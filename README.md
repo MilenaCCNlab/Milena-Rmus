@@ -23,7 +23,7 @@ model-based planning are linked to the ability to rapidly acquire latent associa
 
 
 ## Get in touch! 
-email: milena_rmus@berkeley.edu
+email: milena underscore rmus at berkeley dot edu 
 
 [Twitter](https://twitter.com/milenamr7)
 
