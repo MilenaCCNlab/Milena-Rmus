@@ -1,6 +1,6 @@
 # Milena Rmus
 
-I am a second-year PhD student @ UC Berkeley (Computational Cognitive Neuroscience Lab), working with Dr. Anne Collins. I am study learning and decision-making using (mainly reinforcement learning) computational models. 
+I am a second-year PhD student @ UC Berkeley (Computational Cognitive Neuroscience Lab), working with Dr. Anne Collins. I study learning and decision-making using (mainly reinforcement learning) computational models. 
 
 ## Education 
 ScB Cognitive Neuroscience, Brown University (Class of 2018) 
