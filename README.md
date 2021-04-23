@@ -4,6 +4,7 @@ I am a second-year PhD student @ UC Berkeley (Computational Cognitive Neuroscien
 
 ## Education 
 ScB, Cognitive Neuroscience
+
 Brown University (Class of 2018) 
 
 ## Research Experience 
