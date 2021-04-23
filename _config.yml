@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 logo: headshot.png
-title-heading: false
+title-heading: null
+title: null
