@@ -1,6 +1,8 @@
 ## About me... 
 I am a second-year PhD student @ UC Berkeley (Computational Cognitive Neuroscience Lab), working with [Dr. Anne Collins](https://ccn.berkeley.edu/). I study learning and decision-making using (mainly reinforcement learning) computational models. 
 
+I also enjoy playing with lego sets and puzzles.
+
 ## Education 
 ScB Cognitive Neuroscience, Brown University (Class of 2018) 
 
