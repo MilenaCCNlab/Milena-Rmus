@@ -1,10 +1,7 @@
 theme: jekyll-theme-minimal
+title: Milena Rmus
+
 github:
   is_project_page: false
 logo: headshot.png
-name: Milena Rmus
----
-title-heading: false
-name: false
-title: false
----
+
