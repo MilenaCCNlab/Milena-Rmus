@@ -1,15 +1,15 @@
-## Milena Rmus
+# Milena Rmus
 
 I am a second-year PhD student @ UC Berkeley (Computational Cognitive Neuroscience Lab), working with Dr. Anne Collins. I am study learning and decision-making using (mainly reinforcement learning) computational models. 
 
-# Education 
+## Education 
 ScB, Cognitive Neuroscience
 Brown University (Class of 2018) 
 
-# Research Experience 
+## Research Experience 
 Research Specialist, Princeton University (2018-2019)
 
-# Publications
+## Publications
 
 Rmus, M., Ritz, H., Hunter, L.E., Bornstein, A.M., Shenhav, A. (2019). Individual differences in
 model-based planning are linked to the ability to rapidly acquire latent associative structure. (Under revision).
