@@ -10,7 +10,8 @@ ScB Cognitive Neuroscience, Brown University (Class of 2018)
 
 ## Research Experience 
 Research Specialist, Princeton University (2018-2019)
-Summer Intern at Lawrence Livermore National Lab (Summer 2022)
+
+Data Science Summer Intern, Lawrence Livermore National Lab (Summer 2022)
 
 ## Get in touch! 
 email: milena underscore rmus at berkeley dot edu 
