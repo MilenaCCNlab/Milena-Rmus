@@ -10,6 +10,7 @@ ScB Cognitive Neuroscience, Brown University (Class of 2018)
 
 ## Research Experience 
 Research Specialist, Princeton University (2018-2019)
+
 Data Science Summer Intern, Lawrence Livermore National Lab (Summer 2022)
 
 ## Get in touch! 
